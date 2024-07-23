@@ -1,5 +1,4 @@
 # Pizza-Sales-Project-By-sql
-
 Basic:
 Retrieve the total number of orders placed.
 Calculate the total revenue generated from pizza sales.
